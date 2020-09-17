@@ -1,6 +1,6 @@
 # Media Hoarder Testset Generator
 
-Generate a testset of 0-byte .mkv movie files for media hoarder.
+Generate a testset of 9000+ 0-byte .mkv movie files for media hoarder.
 
 ## How it works
 
